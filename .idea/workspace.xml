@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a1fc727-c11b-4c95-9cee-73187c790f36" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rbac/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rbac_help/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rbac/views/menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="832">
+              <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+              <folding>
+                <element signature="e#47#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rbac/service/routes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="e#47#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rbac/templatetags/rbac.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#45#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rbac/service/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/views/account.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding>
+                <element signature="e#47#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/templates/user_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/templates/host_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>models.UserINfo</find>
+      <find>models.User</find>
+      <find>memory_reverse</find>
+      <find>rbac</find>
+      <find>reverse</find>
+      <find>staticfiles</find>
+      <find>redirect</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rbac/admin.py" />
+        <option value="$PROJECT_DIR$/rbac/models.py" />
+        <option value="$PROJECT_DIR$/rbac/urls.py" />
+        <option value="$PROJECT_DIR$/rbac/views/menu.py" />
+        <option value="$PROJECT_DIR$/app01/templates/user_lsit.html" />
+        <option value="$PROJECT_DIR$/app01/forms.py" />
+        <option value="$PROJECT_DIR$/app01/models.py" />
+        <option value="$PROJECT_DIR$/app01/forms/user.py" />
+        <option value="$PROJECT_DIR$/app01/views/user.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/app01/forms/host.py" />
+        <option value="$PROJECT_DIR$/app01/views/host.py" />
+        <option value="$PROJECT_DIR$/app01/templates/index.html" />
+        <option value="$PROJECT_DIR$/rbac/views/role.py" />
+        <option value="$PROJECT_DIR$/app01/views/account.py" />
+        <option value="$PROJECT_DIR$/app01/templates/login.html" />
+        <option value="$PROJECT_DIR$/使用文档.md" />
+        <option value="$PROJECT_DIR$/Rbac_help/settings.py" />
+        <option value="$PROJECT_DIR$/rbac/middlewares/rbac.py" />
+        <option value="$PROJECT_DIR$/rbac/templates/layout.html" />
+        <option value="$PROJECT_DIR$/Rbac_help/urls.py" />
+        <option value="$PROJECT_DIR$/使用文档-production.md" />
+        <option value="$PROJECT_DIR$/app01/templates/user_list.html" />
+        <option value="$PROJECT_DIR$/app01/templates/host_list.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="y" value="23" />
+    <option name="width" value="2522" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="rbac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="rbac" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="rbac" type="462c0819:PsiDirectoryNode" />
+              <item name="templatetags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rbac_help" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+              <item name="Rbac_help" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app01/templates" />
+      <recent name="$PROJECT_DIR$/rbac/static" />
+      <recent name="$PROJECT_DIR$/rbac/templates" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Rbac_help" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Rbac_help" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Rbac_help.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a1fc727-c11b-4c95-9cee-73187c790f36" name="Default Changelist" comment="" />
+      <created>1590473127133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590473127133</updated>
+      <workItem from="1590473129980" duration="11760000" />
+      <workItem from="1590557803441" duration="2363000" />
+      <workItem from="1590561827463" duration="5554000" />
+      <workItem from="1590646657183" duration="575000" />
+      <workItem from="1595989298359" duration="24000" />
+      <workItem from="1596532476163" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20312000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="23" width="2522" height="1417" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2669355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993758" weight="0.91354465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3026738" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50062424" side_tool="true" weight="0.37326202" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.16905801" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rbac/templatetags/rbac.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app01/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/forms/base.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/static/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/template/defaulttags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="1314" column="4" selection-start-line="1314" selection-start-column="4" selection-end-line="1314" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/forms.py" />
+    <entry file="file://$PROJECT_DIR$/app01/forms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://44626e21-cf98-4412-a82c-6800d5f02874/schema/main/table/app01_department" />
+    <entry file="file://$PROJECT_DIR$/app01/forms/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="37" lean-forward="true" selection-end-line="60" selection-end-column="31" />
+          <folding>
+            <element signature="e#47#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/forms/host.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#47#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/staticfiles/templatetags/staticfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/views/host.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#47#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/service/init_permission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#117#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/sites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="536" selection-start-line="536" selection-end-line="536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/views/role.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="627">
+            <caret line="164" column="19" selection-start-line="164" selection-start-column="19" selection-end-line="164" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用文档-production.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="343">
+            <caret line="165" column="62" selection-start-line="165" selection-start-column="62" selection-end-line="165" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="132" column="37" selection-start-line="132" selection-start-column="37" selection-end-line="132" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/middlewares/rbac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/views/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#47#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rbac_help/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rbac_help/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/service/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/templatetags/rbac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#45#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/service/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/views/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="e#47#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/templates/user_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/templates/host_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rbac/views/menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding>
+            <element signature="e#47#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
